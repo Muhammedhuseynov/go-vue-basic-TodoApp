@@ -1,6 +1,8 @@
 server/my.toml
 
 
+
+
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -10,3 +12,4 @@ server/my.toml
 *.njsproj
 *.sln
 *.sw?
+.gitignore
