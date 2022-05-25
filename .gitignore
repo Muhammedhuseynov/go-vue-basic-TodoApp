@@ -12,4 +12,3 @@ server/my.toml
 *.njsproj
 *.sln
 *.sw?
-.gitignore
